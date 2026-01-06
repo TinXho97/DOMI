@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DOMI - Tu Ciudad a un Clic",
+  "description": "Una super-app urbana para delivery, taxis y servicios locales con asistencia inteligente de Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
